@@ -1,4 +1,4 @@
-PhoneBook Application (CS 302 - Lab Assignment 3)
+PhoneBook Application 
 
 FILES INCLUDED
 - Person.java
